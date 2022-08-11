@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://slow-wave.github.io/sitemap.xml
