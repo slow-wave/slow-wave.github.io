@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 21:50:38 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 17:11:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BFS</title>
       <link>http://slow-wave.github.io/tags/bfs/</link>
-      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
+      <pubDate>Fri, 19 Aug 2022 17:11:21 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/bfs/</guid>
       <description></description>
@@ -23,9 +23,27 @@
     <item>
       <title>DFS</title>
       <link>http://slow-wave.github.io/tags/dfs/</link>
-      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
+      <pubDate>Fri, 19 Aug 2022 17:11:21 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/dfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://slow-wave.github.io/tags/python/</link>
+      <pubDate>Fri, 19 Aug 2022 17:11:21 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>백준</title>
+      <link>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</link>
+      <pubDate>Fri, 19 Aug 2022 17:11:21 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</guid>
       <description></description>
     </item>
     
