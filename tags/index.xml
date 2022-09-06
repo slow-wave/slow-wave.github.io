@@ -10,31 +10,67 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 11:14:32 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 14:41:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BFS</title>
-      <link>http://slow-wave.github.io/tags/bfs/</link>
-      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      <title>boostcourse 웹프로그래밍 풀스택</title>
+      <link>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</link>
+      <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/bfs/</guid>
+      <guid>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http</title>
+      <link>http://slow-wave.github.io/tags/http/</link>
+      <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://slow-wave.github.io/tags/web/</link>
+      <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DFS</title>
       <link>http://slow-wave.github.io/tags/dfs/</link>
-      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/dfs/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>programmers</title>
+      <link>http://slow-wave.github.io/tags/programmers/</link>
+      <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/programmers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>python</title>
       <link>http://slow-wave.github.io/tags/python/</link>
-      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFS</title>
+      <link>http://slow-wave.github.io/tags/bfs/</link>
+      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/bfs/</guid>
       <description></description>
     </item>
     

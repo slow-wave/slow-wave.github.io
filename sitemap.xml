@@ -2,42 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://slow-wave.github.io/post/algorithm/bfs_dfs_3/</loc>
+    <loc>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/web_boostcourse/web_boostcourse_1/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/categories/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/categories/fullstack_boostcourse/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/http/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/web/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/algo-problem/bfs_dfs_4/</loc>
+    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/categories/algo-problem/</loc>
+    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/dfs/</loc>
+    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/programmers/</loc>
+    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/python/</loc>
+    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/algo-problem/bfs_dfs_3/</loc>
     <lastmod>2022-08-23T11:14:32+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/bfs/</loc>
     <lastmod>2022-08-23T11:14:32+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/dfs/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/post/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/python/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
     <loc>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</loc>
     <lastmod>2022-08-23T11:14:32+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/algorithm/bfs_dfs_2/</loc>
+    <loc>http://slow-wave.github.io/post/algo-problem/bfs_dfs_2/</loc>
     <lastmod>2022-08-19T17:11:21+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/algorithm/bfs_dfs_1/</loc>
+    <loc>http://slow-wave.github.io/post/algo-problem/bfs_dfs_1/</loc>
     <lastmod>2022-08-12T22:29:58+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</loc>
     <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/algorithm/</loc>
+    <loc>http://slow-wave.github.io/categories/algorithm/</loc>
     <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/</loc>
+    <loc>http://slow-wave.github.io/tags/algorithm/</loc>
+    <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url>
 </urlset>
