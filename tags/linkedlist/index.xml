@@ -13,10 +13,10 @@
     <lastBuildDate>Tue, 13 Sep 2022 00:15:16 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/linkedlist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Leetcode] Linked List 1 - 21. Merge Two Sorted Lists</title>
-      <link>http://slow-wave.github.io/post/algo-problem/linkedlist_1/</link>
+      <link>http://slow-wave.github.io/post/problem_solving/linkedlist_1/</link>
       <pubDate>Tue, 13 Sep 2022 00:15:16 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/algo-problem/linkedlist_1/</guid>
+      <guid>http://slow-wave.github.io/post/problem_solving/linkedlist_1/</guid>
       <description>[Leetcode] 21. Merge Two Sorted Lists 문제 링크
 이 문제는 제목 그대로 2개의 리스트를 정렬해서 결합하는 문제입니다. 구현되어있는 ListNode class를 이용해서 mergeTwoLists method를 완성하면 됩니다.
 풀이 과정 다음의 조건을 갖고 있다고 가정하고 실행 과정을 정리해보겠습니다.
