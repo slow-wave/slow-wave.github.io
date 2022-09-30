@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Sep 2022 10:35:18 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 14:27:55 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[blockchain] ch4.Keys, Addresses</title>
+      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch4/</link>
+      <pubDate>Fri, 30 Sep 2022 14:27:55 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch4/</guid>
+      <description>Mastering Bitcoin: Programming the Open Blockchain 2nd Edition 책을 정리한 내용입니다.
+용어 정리 Cryptography : 암호학 Public key : 공개키는 지정된 인증기관에 의해 제공되는 키 값이다. 공개키로부터 생성되는 개인키와 함께 결합되어 메시지 및 전자서명의 암호화와 복원에 사용할 수 있다. Private key : 개인키는 무작위로 추출된 숫자와 문자의 조합으로 이루어진 비밀번호와 같은 기능을 한다. elliptic curve multiplication(ECC, 타원곡선암호기술) : RSA의 대안으로 대두된 이산대수의 난해성에 기반한 공개키 암호화 알고리즘 script : 스택 기반의 프로그래밍 언어이다.</description>
+    </item>
+    
     <item>
       <title>[blockchain] ch2. How bitcoin works</title>
       <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch2/</link>
@@ -101,7 +111,7 @@ DFS 방식으로 그래프 탐색 stack 자료구조에서 pop을 하면 나중�
     </item>
     
     <item>
-      <title>[알고리즘] DFS vs. BFS</title>
+      <title>[algorithm] DFS vs. BFS</title>
       <link>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</link>
       <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
       
