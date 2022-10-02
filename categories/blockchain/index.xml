@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 16:21:44 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 23:11:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[blockchain] ch6. Transactions</title>
+      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</link>
+      <pubDate>Sun, 02 Oct 2022 23:11:22 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</guid>
+      <description>용어 정리 coinbase : 각 블록의 첫번째 트랜잭션이며 마이닝을 위한 보상. locking script : 출력에 배치되는 지출 조건. unlocking script : 출력을 사용할 수 있도록 하는 스크립트 P2PKH : 비트코인 내에서 가장 일반적인 스크립트 형식으로 거래 유형이다. digital signature : 개인키와 공개키암호를 이용한 전자서명이다. 이를 통해 본인임을 인증하고 수신인은 메세지가 위,변조 되지 않았음을 확인한다. SIGHASH : 데이터 가운데 어떤 부분 확인하고 서명해야하는지 지정해준다. Transaction outputs Transaction output은 불연속적이고 분리할 수 없다는 특징을 갖고 있다.</description>
+    </item>
+    
     <item>
       <title>[blockchain] ch5.Wallets</title>
       <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch5/</link>
