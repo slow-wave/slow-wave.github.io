@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://slow-wave.github.io/categories/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/categories/database/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/db/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/database/db_programming_1/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/</loc>
+    <lastmod>2022-10-06T00:50:00+09:00</lastmod>
+  </url><url>
     <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</loc>
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
@@ -12,18 +33,6 @@
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/blockchain/</loc>
-    <lastmod>2022-10-02T23:11:22+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/categories/</loc>
-    <lastmod>2022-10-02T23:11:22+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/post/</loc>
-    <lastmod>2022-10-02T23:11:22+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/</loc>
-    <lastmod>2022-10-02T23:11:22+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/</loc>
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch5/</loc>

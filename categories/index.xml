@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2022 23:11:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 00:50:00 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>database</title>
+      <link>http://slow-wave.github.io/categories/database/</link>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/database/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blockchain</title>
       <link>http://slow-wave.github.io/categories/blockchain/</link>
