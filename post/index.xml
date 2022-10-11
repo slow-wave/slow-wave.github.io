@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Oct 2022 14:30:28 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 16:04:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[deeplearing] CNN</title>
+      <link>http://slow-wave.github.io/post/deeplearning/deeplearning_1/</link>
+      <pubDate>Tue, 11 Oct 2022 16:04:21 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/deeplearning/deeplearning_1/</guid>
+      <description>Fully Connected Layer fully connected layer만으로 구성된 인공신경망의 입력데이터는 1차원(배열) 형태로 한정됨. 한 장의 컬러 사진은 3차원 데이터임. (R,G,B) 따라서 사진 데이터로 Fully Connected 신경망을 학습시켜야할 경우, 3차원을 1차원으로 평면화시켜야함. 평면화를 시키면 공간 정보 손실 발생 → 신경망이 특징을 추출 및 학습할 때 정확도 높이는데 한계 이미지의 공간 정보를 유지한 상태로 학습이 가능한 모델이 CNN임. CNN(Convolution neural networks)이란? 합성곱(convolution) 이라는 연산을 사용하는 신경망 이미지 분류 작업에서 좋은 성능을 보여줌. 시각 피질에 대한 실험에서 얻은 데이터에서 영감을 얻은 특별한 구조를 사용함.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>http://slow-wave.github.io/post/database/db_programming_2/</link>
