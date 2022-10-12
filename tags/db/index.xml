@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Oct 2022 14:30:28 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/db/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://slow-wave.github.io/post/database/db_programming_2/</link>
-      <pubDate>Thu, 06 Oct 2022 14:30:28 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/post/database/db_programming_2/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 06 Oct 2022 00:50:00 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/db/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[database] Re-introduction to DB</title>
       <link>http://slow-wave.github.io/post/database/db_programming_1/</link>

@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 16:04:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 17:04:59 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data structure</title>
+      <link>http://slow-wave.github.io/categories/data-structure/</link>
+      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/data-structure/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deeplearing</title>
       <link>http://slow-wave.github.io/categories/deeplearing/</link>
@@ -23,7 +32,7 @@
     <item>
       <title>database</title>
       <link>http://slow-wave.github.io/categories/database/</link>
-      <pubDate>Thu, 06 Oct 2022 14:30:28 +0900</pubDate>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/categories/database/</guid>
       <description></description>

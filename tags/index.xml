@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 16:04:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 17:04:59 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>datastructure</title>
+      <link>http://slow-wave.github.io/tags/datastructure/</link>
+      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/datastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>http://slow-wave.github.io/tags/graph/</link>
+      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>자료구조</title>
+      <link>http://slow-wave.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/</link>
+      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deeplearing</title>
       <link>http://slow-wave.github.io/tags/deeplearing/</link>
@@ -23,7 +50,7 @@
     <item>
       <title>DB</title>
       <link>http://slow-wave.github.io/tags/db/</link>
-      <pubDate>Thu, 06 Oct 2022 14:30:28 +0900</pubDate>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/db/</guid>
       <description></description>
