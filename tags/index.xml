@@ -10,22 +10,58 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 17:04:59 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 17:08:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>datastructure</title>
-      <link>http://slow-wave.github.io/tags/datastructure/</link>
-      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      <title>Algorithm</title>
+      <link>http://slow-wave.github.io/tags/algorithm/</link>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/datastructure/</guid>
+      <guid>http://slow-wave.github.io/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph</title>
       <link>http://slow-wave.github.io/tags/graph/</link>
-      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kruskal</title>
+      <link>http://slow-wave.github.io/tags/kruskal/</link>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/kruskal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MST</title>
+      <link>http://slow-wave.github.io/tags/mst/</link>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/mst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prim</title>
+      <link>http://slow-wave.github.io/tags/prim/</link>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/prim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datastructure</title>
+      <link>http://slow-wave.github.io/tags/datastructure/</link>
+      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/datastructure/</guid>
       <description></description>
     </item>
     
@@ -44,15 +80,6 @@
       <pubDate>Tue, 11 Oct 2022 16:04:21 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/deeplearing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DB</title>
-      <link>http://slow-wave.github.io/tags/db/</link>
-      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/db/</guid>
       <description></description>
     </item>
     
@@ -161,15 +188,6 @@
       <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>http://slow-wave.github.io/tags/algorithm/</link>
-      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/algorithm/</guid>
       <description></description>
     </item>
     

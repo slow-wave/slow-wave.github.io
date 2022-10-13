@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 17:04:59 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 17:08:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[algorithm] MST(Minimum Spanning Tree)</title>
+      <link>http://slow-wave.github.io/post/algorithm/mst_1/</link>
+      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/algorithm/mst_1/</guid>
+      <description>0. Spanning Tree Spanning Tree란 그래프 내의 모든 정점을 포함하는 트리입니다. 즉, 그래프에서 일부 간선을 선택해서 만든 트리입니다. 이때 그래프에 사이클이 형성이 되면 안됩니다. 연결 그래프에 대한 spanning tree는 여러개 일 수 있습니다.
+n개의 정점을 가지는 그래프의 최소 간선의 수는 (n-1)개이고, (n-1)개로 연결되어 있으면 필연적으로 트리 형태가 되고 이것이 spanning tree가 됩니다. 따라서 spanning tree는 그래프에 있는 n개의 정점을 (n-1)개의 간선으로 연결합니다.
+1. Minimum Spanning Tree (MST) MST는 트리를 구성하는 간선들의 가중치를 합한 것이 최소가 되는 신장 트리이며 다음의 조건을 충족해야합니다.</description>
+    </item>
+    
     <item>
       <title>[data structure] 자료구조 정리</title>
       <link>http://slow-wave.github.io/post/data_structure/data_structure_1/</link>

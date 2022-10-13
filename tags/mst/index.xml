@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>algorithm on slow-wave blog</title>
-    <link>http://slow-wave.github.io/categories/algorithm/</link>
-    <description>Recent content in algorithm on slow-wave blog</description>
+    <title>MST on slow-wave blog</title>
+    <link>http://slow-wave.github.io/tags/mst/</link>
+    <description>Recent content in MST on slow-wave blog</description>
     <image>
       <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 17:08:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 17:08:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/mst/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[algorithm] MST(Minimum Spanning Tree)</title>
       <link>http://slow-wave.github.io/post/algorithm/mst_1/</link>
@@ -20,18 +20,6 @@
       <description>0. Spanning Tree Spanning Tree란 그래프 내의 모든 정점을 포함하는 트리입니다. 즉, 그래프에서 일부 간선을 선택해서 만든 트리입니다. 이때 그래프에 사이클이 형성이 되면 안됩니다. 연결 그래프에 대한 spanning tree는 여러개 일 수 있습니다.
 n개의 정점을 가지는 그래프의 최소 간선의 수는 (n-1)개이고, (n-1)개로 연결되어 있으면 필연적으로 트리 형태가 되고 이것이 spanning tree가 됩니다. 따라서 spanning tree는 그래프에 있는 n개의 정점을 (n-1)개의 간선으로 연결합니다.
 1. Minimum Spanning Tree (MST) MST는 트리를 구성하는 간선들의 가중치를 합한 것이 최소가 되는 신장 트리이며 다음의 조건을 충족해야합니다.</description>
-    </item>
-    
-    <item>
-      <title>[algorithm] DFS vs. BFS</title>
-      <link>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</link>
-      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</guid>
-      <description>Graph Search graph search 방법에는 DFS, BFS 2가지 종류가 있다.
-DFS(Depth-First-Search) 정의 root node 혹은 다른 임의의 node에서 시작해서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방식이다.
-binary tree를 순회할 때 사용했던 다음의 순회 방법이 DFS에 속한다.
-inorder preorder postorder 구현 방법 stack을 이용해서 구현 처음에는 스택에 노드가 없으니깐 시작할 노드를 넣는다. stack에서 노드를 하나 꺼내서 해당 node의 child node를 전부 스택에 넣고 꺼낸 노드는 출력한다. child node를 stack에 넣을 때 한번 stack에 넣었던 node는 다시 넣지 않는다.</description>
     </item>
     
   </channel>
