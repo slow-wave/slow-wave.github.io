@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>http on slow-wave blog</title>
+    <title>HTTP on slow-wave blog</title>
     <link>http://slow-wave.github.io/tags/http/</link>
-    <description>Recent content in http on slow-wave blog</description>
+    <description>Recent content in HTTP on slow-wave blog</description>
     <image>
       <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 14:41:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 16:34:33 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/http/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[boostcourse 웹프로그래밍 풀스택] 1-1. HTTP 프로토콜의 이해 </title>
+      <title>[boostcourse 웹프로그래밍 풀스택] 1-2. browser의 동작</title>
+      <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_2/</link>
+      <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_2/</guid>
+      <description>Web개발의 이해 1-1. HTTP 프로토콜의 이해 1-2. browser의 동작 1-3. 웹서버 1-4. WAS 이 글은 &amp;ldquo;How Browsers Work: Behind the scenes of modern web browsers&amp;ldquo;의 번역본을 정리한 것입니다.
+1. broswer 1) broswer의 주요 기능 브라우저의 주요 기능은 사용자가 선택한 자원을 서버에 요청하고 브라우저에 표시하는 것입니다. 자원은 보통 HTML 문서이지만 다른 형태일 수 있으며, 자원의 주소는 URI(Uniform Resource Identifier)에 의해 정해집니다.
+2) browser의 기본 구조 UI : 주소 표시줄, 이전/다음 버튼 등 요청한 페이지를 보여주는 창을 제외한 나머지 모든 부분입니다.</description>
+    </item>
+    
+    <item>
+      <title>[boostcourse 웹프로그래밍 풀스택] 1-1. HTTP 프로토콜의 이해</title>
       <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</link>
       <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
       
