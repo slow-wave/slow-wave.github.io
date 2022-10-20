@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VM on slow-wave blog</title>
+    <link>http://slow-wave.github.io/tags/vm/</link>
+    <description>Recent content in VM on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 01:37:04 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/vm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[config]Virtual Box, Vagrant를 이용한 가상 머신 환경 구축</title>
+      <link>http://slow-wave.github.io/post/config/config_vm_0/</link>
+      <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/config/config_vm_0/</guid>
+      <description>intro mac에서 virtualbox를 이용해 비교적 간단하게 ubuntu 환경을 구축하는 방법에 대한 글입니다.
+virtualbox는 Oracle VM VirtualBox는 GPLv2 라이선스로 배포되는 오픈 소스 하드웨어 리소스 가상화 프로그램입니다. 일반 컴퓨터에 운영체제를 설치하고 프로그램을 실행할 수 있는 것처럼, 가상머신 위에도 운영체제를 설치하고 프로그램을 실행할 수 있습니다. Vagrant는 Mitchell Hashimoto가 Ruby로 개발하고 2010년 3월 처음 릴리스한 커맨드라인 인터페이스로 가상 머신 기반 개발 환경을 관리하는 도구입니다. 우분투(Ubuntu)는 가장 널리 쓰이는 오픈소스 리눅스 배포판 중 하나입니다.
+아래 태스크들을 실행하기 전에 homebrew를 먼저 설치해야 합니다.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>leetcode on slow-wave blog</title>
+    <link>http://slow-wave.github.io/categories/leetcode/</link>
+    <description>Recent content in leetcode on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 01:43:36 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[MySQL] 함수 정리</title>
+      <link>http://slow-wave.github.io/post/database/db_mysql_0/</link>
+      <pubDate>Fri, 21 Oct 2022 01:43:36 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/database/db_mysql_0/</guid>
+      <description>코딩테스트 연습 할 때 Leetcode 플랫폼을 많이 이용합니다.남의 코드와 아이디어를 잘 볼 수 있어서 매우 좋아합니다.(영어라는 것만 빼면 완벽하다고 생각하고 있습니다..) discussion을 보면 문제에 대한 각자의 코드와 설명이 있는데 많은 사람들이 vote와 댓글 기능을 이용해 피드백을 줍니다. 저는 칭찬이 많이 달려있는 글을 위주로 참고합니다. 별로인 것에 대해서는 가차없는 피드백이 적혀있어서 더 도움이 되는 것 같습니다. 그리고 시간복잡도 등에 대해서 토론하는 댓글도 많아서 이 부분도 유용합니다.
+개인적으로 SQL을 공부 할 필요성을 느껴서 mysql 함수 중심으로 problem과 code를 정리해봤습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

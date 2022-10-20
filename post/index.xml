@@ -10,7 +10,28 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Oct 2022 16:34:33 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 01:43:36 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[MySQL] 함수 정리</title>
+      <link>http://slow-wave.github.io/post/database/db_mysql_0/</link>
+      <pubDate>Fri, 21 Oct 2022 01:43:36 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/database/db_mysql_0/</guid>
+      <description>코딩테스트 연습 할 때 Leetcode 플랫폼을 많이 이용합니다.남의 코드와 아이디어를 잘 볼 수 있어서 매우 좋아합니다.(영어라는 것만 빼면 완벽하다고 생각하고 있습니다..) discussion을 보면 문제에 대한 각자의 코드와 설명이 있는데 많은 사람들이 vote와 댓글 기능을 이용해 피드백을 줍니다. 저는 칭찬이 많이 달려있는 글을 위주로 참고합니다. 별로인 것에 대해서는 가차없는 피드백이 적혀있어서 더 도움이 되는 것 같습니다. 그리고 시간복잡도 등에 대해서 토론하는 댓글도 많아서 이 부분도 유용합니다.
+개인적으로 SQL을 공부 할 필요성을 느껴서 mysql 함수 중심으로 problem과 code를 정리해봤습니다.</description>
+    </item>
+    
+    <item>
+      <title>[config]Virtual Box, Vagrant를 이용한 가상 머신 환경 구축</title>
+      <link>http://slow-wave.github.io/post/config/config_vm_0/</link>
+      <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/config/config_vm_0/</guid>
+      <description>intro mac에서 virtualbox를 이용해 비교적 간단하게 ubuntu 환경을 구축하는 방법에 대한 글입니다.
+virtualbox는 Oracle VM VirtualBox는 GPLv2 라이선스로 배포되는 오픈 소스 하드웨어 리소스 가상화 프로그램입니다. 일반 컴퓨터에 운영체제를 설치하고 프로그램을 실행할 수 있는 것처럼, 가상머신 위에도 운영체제를 설치하고 프로그램을 실행할 수 있습니다. Vagrant는 Mitchell Hashimoto가 Ruby로 개발하고 2010년 3월 처음 릴리스한 커맨드라인 인터페이스로 가상 머신 기반 개발 환경을 관리하는 도구입니다. 우분투(Ubuntu)는 가장 널리 쓰이는 오픈소스 리눅스 배포판 중 하나입니다.
+아래 태스크들을 실행하기 전에 homebrew를 먼저 설치해야 합니다.</description>
+    </item>
+    
     <item>
       <title>[boostcourse 웹프로그래밍 풀스택] 1-2. browser의 동작</title>
       <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_2/</link>
@@ -52,6 +73,17 @@ Non-linear data structure란 데이터 요소가 순차적 또는 선형으로 �
       
       <guid>http://slow-wave.github.io/post/deeplearning/deeplearning_1/</guid>
       <description>Fully Connected Layer fully connected layer만으로 구성된 인공신경망의 입력데이터는 1차원(배열) 형태로 한정됨. 한 장의 컬러 사진은 3차원 데이터임. (R,G,B) 따라서 사진 데이터로 Fully Connected 신경망을 학습시켜야할 경우, 3차원을 1차원으로 평면화시켜야함. 평면화를 시키면 공간 정보 손실 발생 → 신경망이 특징을 추출 및 학습할 때 정확도 높이는데 한계 이미지의 공간 정보를 유지한 상태로 학습이 가능한 모델이 CNN임. CNN(Convolution neural networks)이란? 합성곱(convolution) 이라는 연산을 사용하는 신경망 이미지 분류 작업에서 좋은 성능을 보여줌. 시각 피질에 대한 실험에서 얻은 데이터에서 영감을 얻은 특별한 구조를 사용함.</description>
+    </item>
+    
+    <item>
+      <title>[database] Re-introduction to DB</title>
+      <link>http://slow-wave.github.io/post/database/db_programming_0/</link>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/database/db_programming_0/</guid>
+      <description>데이터베이스 프로그래밍 수업의 내용을 정리한 문서입니다. 시간이 조금 지나고나서야 중요한 내용 임을 깨달아서 예전에 굿노트에 정리했던 것들을 다시 글로 기록하려고 합니다. 더 알고 싶은 부분은 조금 더 파고 들어볼 예정입니다.
+1. DB 기본 개념 1) DB vs. DBMS DB는 저장된 데이터의 모임. 데이터 그 자체 컨텐츠를 의미함. DBMS는 데이터 접근을 위한 프로그램 set임. oracle MS SQL server MySQL MariaDB 2) Typical web-based application architecture [출처]
+Client Tier - Presentation Layer 응용 프로그램의 최상단임 UI 제공 (인터넷 브라우저의 정적 데이터 제공) 주로 web server를 뜻 함 (물리적 WEB server) HTML, Javascript, CSS, Image Application Tier - Business Logic Layer 클라이언트 요청에 대해 마치 서버처럼 행동함 정보 처리의 규칙 존재(주로 동적 데이터임) middleware, backend 주로 application server 뜻함(물리적 WAS server) Data Tier - Data Access Layer DB와 엑세스해서 읽고 쓰고 관리하는 것을 포함 DB server (물리적 DB server) MySQL 3) Rational DB Domain : attribute가 가질 수 있는 값의 집합 Attribute(column) Tuple(record, row) Relation(table) DB - set of relations 4) Schema, Instance Schema : DB의 논리적 구조, 뼈대 Instance : DB의 실제 컨텐츠, DB의 상태 5) Key Key tuple을 구별하기 위한 attribute 집합 Superkey relation에서 unique하게 tuple을 식별할 수 있는 attribute 집합 Candidate Key superkey 중에서 minimal한 key Primary Key candidate key 중 하나 (relation을 정의할 때 선택) entity Integrity : Null이 될 수 없음.</description>
     </item>
     
     <item>

@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Oct 2022 16:34:33 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 01:43:36 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>leetcode</title>
+      <link>http://slow-wave.github.io/categories/leetcode/</link>
+      <pubDate>Fri, 21 Oct 2022 01:43:36 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>http://slow-wave.github.io/categories/mysql/</link>
+      <pubDate>Fri, 21 Oct 2022 01:43:36 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>config</title>
+      <link>http://slow-wave.github.io/categories/config/</link>
+      <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/config/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>fullstack_boostcourse</title>
       <link>http://slow-wave.github.io/categories/fullstack_boostcourse/</link>
@@ -44,6 +71,15 @@
       <pubDate>Tue, 11 Oct 2022 16:04:21 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/categories/deeplearing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>http://slow-wave.github.io/categories/database/</link>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/database/</guid>
       <description></description>
     </item>
     
