@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://slow-wave.github.io/post/database/db_mysql_0/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <loc>http://slow-wave.github.io/post/database/db_mysql_2/</loc>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/db/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/leetcode/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/mysql/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/mysql/</loc>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/</loc>
-    <lastmod>2022-10-21T01:43:36+09:00</lastmod>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/</loc>
+    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/database/db_mysql_1/</loc>
+    <lastmod>2022-11-01T16:21:10+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/database/db_mysql_0/</loc>
     <lastmod>2022-10-21T01:43:36+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/config/config_vm_0/</loc>
