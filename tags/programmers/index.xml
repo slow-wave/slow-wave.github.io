@@ -13,10 +13,10 @@
     <lastBuildDate>Tue, 06 Sep 2022 14:23:31 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/programmers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[programmers] DFS/BFS 4- 순위</title>
-      <link>http://slow-wave.github.io/post/problem_solving/bfs_dfs_4/</link>
+      <link>http://slow-wave.github.io/post/problem_solving/bfs_dfs_3/</link>
       <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/problem_solving/bfs_dfs_4/</guid>
+      <guid>http://slow-wave.github.io/post/problem_solving/bfs_dfs_3/</guid>
       <description>[programmers] 순위 (문제 링크) 이 문제는 그래프로 분류되어 있습니다. 어떻게 그래프로 접근해야하는지 아이디어가 생각나지 않아서 어려웠던 문제입니다. 구글링을 해봤을 때 플로이드 와샬(Floyd-Warshall) 알고리즘을 이용해서 구현을 하신 답안이 많았지만 DFS로 구현했습니다. 플로이드 와샬의 경우 각 정점에서 다른 모든 정점까지의 최단경로를 구할 수 있는 알고리즘인데 이보다는 DFS가 효율적이라고 생각했습니다. 실제로 플로이드 와샬의 시간 복잡도는 O(n^3)입니다.
 풀이 방법 n = 5 results = [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]] results의 정보를 가지고 확실한 순위를 알 수 있는 노드의 수를 찾아내는 문제입니다.</description>
     </item>
