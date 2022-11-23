@@ -13,10 +13,10 @@
     <lastBuildDate>Fri, 14 Oct 2022 16:34:33 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[boostcourse 웹프로그래밍 풀스택] 1-2. browser의 동작</title>
-      <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_2/</link>
+      <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</link>
       <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_2/</guid>
+      <guid>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</guid>
       <description>Web개발의 이해 1-1. HTTP 프로토콜의 이해 1-2. browser의 동작 1-3. 웹서버 1-4. WAS 이 글은 &amp;ldquo;How Browsers Work: Behind the scenes of modern web browsers&amp;ldquo;의 번역본을 정리한 것입니다.
 1. broswer 1) broswer의 주요 기능 브라우저의 주요 기능은 사용자가 선택한 자원을 서버에 요청하고 브라우저에 표시하는 것입니다. 자원은 보통 HTML 문서이지만 다른 형태일 수 있으며, 자원의 주소는 URI(Uniform Resource Identifier)에 의해 정해집니다.
 2) browser의 기본 구조 UI : 주소 표시줄, 이전/다음 버튼 등 요청한 페이지를 보여주는 창을 제외한 나머지 모든 부분입니다.</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>[boostcourse 웹프로그래밍 풀스택] 1-1. HTTP 프로토콜의 이해</title>
-      <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</link>
+      <link>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_0/</link>
       <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</guid>
+      <guid>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_0/</guid>
       <description>Web개발의 이해 1-1. HTTP 프로토콜의 이해 1-2. browser의 동작 1-3. 웹서버 1-4. WAS &amp;lsquo;[boostcourse 웹프로그래밍 풀스택]은&amp;rsquo; 네이버 부스트코스의 “웹프로그래밍(풀스택)” 강의를 듣고 공부한 내용을 정리한 시리즈입니다. 일단 저는 Spring 프레임워크를 배워보고 싶어서 이 강의를 수강하게 되었습니다. 전공 공부를 할 때 프로그래밍 언어나 프레임워크 등을 익히는데 가장 효과적이고 재밌었던 방법은 직접 구현 해보는 방법이었습니다. 저는 Node.js 프레임워크와 Java, Javascript 언어를 공부한 경험이 있어서 (기억은 가물가물하지만;) 해당 강의 수강에 도전하게 되었습니다.
 깊게 설명해주시는 것은 아니지만 관련해서 공부하면 좋을 주제들을 많이 던져주는 강의라고 생각합니다.</description>
     </item>

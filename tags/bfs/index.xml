@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 11:14:32 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 01:14:27 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[algorithm] 소수 판별</title>
+      <link>http://slow-wave.github.io/post/algorithm/algo_prime/</link>
+      <pubDate>Thu, 24 Nov 2022 01:14:27 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/algorithm/algo_prime/</guid>
+      <description>소수 판별 Intro 코딩테스트 문제를 풀다보면 가끔 소수 판별하는 문제가 나옵니다. 소수는 간단하게 정의하자면 1보다 큰 자연수 중 1과 자기 자신만을 약수로 가지는 수입니다. 수학 시간에 소수를 많이 다뤘다보니 수를 보면 이 수는 소수인지 아닌지는 바로 판별이 가능하지만 이를 알고리즘으로 바꾸는 것은 좀 어려웠습니다.
+다행히 소수 판별 문제를 해결하기 위한 대표적인 방법이 의미 정의 되어있습니다. 에라토스테네스의 체 알고리즘을 활용하는 것입니다. 이는 다수의 자연수에 대하여 소수 여부를 판별할 때 사용하는 대표적인 알고리즘이며 N보다 작거나 같은 모두 소수를 찾을 때 사용할 수 있습니다.</description>
+    </item>
+    
     <item>
       <title>[백준] DFS/BFS 3- 2667번 단지 번호 붙이기</title>
       <link>http://slow-wave.github.io/post/problem_solving/bfs_dfs_2/</link>
@@ -47,10 +57,10 @@ DFS 방식으로 그래프 탐색 stack 자료구조에서 pop을 하면 나중�
     
     <item>
       <title>[algorithm] DFS vs. BFS</title>
-      <link>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</link>
+      <link>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</link>
       <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/algorithm/bfs_vs_dfs/</guid>
+      <guid>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</guid>
       <description>Graph Search graph search 방법에는 DFS, BFS 2가지 종류가 있다.
 DFS(Depth-First-Search) 정의 root node 혹은 다른 임의의 node에서 시작해서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방식이다.
 binary tree를 순회할 때 사용했던 다음의 순회 방법이 DFS에 속한다.
