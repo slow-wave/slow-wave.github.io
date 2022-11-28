@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 00:08:02 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 14:48:17 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>problem_solving</title>
+      <link>http://slow-wave.github.io/categories/problem_solving/</link>
+      <pubDate>Mon, 28 Nov 2022 14:48:17 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/problem_solving/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Spring</title>
       <link>http://slow-wave.github.io/categories/spring/</link>
@@ -107,24 +116,6 @@
       <pubDate>Sun, 02 Oct 2022 23:11:22 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/categories/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>algo-problem</title>
-      <link>http://slow-wave.github.io/categories/algo-problem/</link>
-      <pubDate>Tue, 13 Sep 2022 00:15:16 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/categories/algo-problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>problem_solving</title>
-      <link>http://slow-wave.github.io/categories/problem_solving/</link>
-      <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/categories/problem_solving/</guid>
       <description></description>
     </item>
     
