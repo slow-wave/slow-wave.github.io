@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 00:08:02 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 21:57:55 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 1.5~1.9 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_1/</link>
+      <pubDate>Sat, 03 Dec 2022 21:57:55 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_1/</guid>
+      <description>1.5 스프링의 IoC 스프링의 핵심 → 애플리케이션 컨텍스트(빈 팩토리) 1.5.1 오브젝트 팩토리를 이용한 스프링 IoC 어플리케이션 컨텍스트와 설정정보
+빈(bean) : 스프링이 제어권을 가지고 직접 만들고 관계를 부여하는 오브젝트 스프링 빈은 스프링 컨테이너가 생성과 관계설정, 사용 등을 제어해주는 제어의 역전이 적용된 오브젝트를 가리키는 말 빈 팩토리(bean factory) : 빈의 생성과 관계 설정과 같은 제어를 담당하는 IoC 오브젝트 애플리케이션 컨텍스트 : 별도의 정보를 참고해서 빈의 생성, 관계설정 등의 제어 작업 총괄. IoC엔진이라는 의미가 부각됨.</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 1.1~1.4 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_0/</link>
