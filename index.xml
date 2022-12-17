@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 03:37:39 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:13:50 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 3장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_3/</link>
+      <pubDate>Sun, 18 Dec 2022 00:13:50 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_3/</guid>
+      <description>Intro 개방 폐쇄 원칙(OCP) : 변화의 특성이 다른 부분을 구분해주고, 각각 다른 목적과 다른 이유에 의해 다른 시점에 독립적으로 변경될 수 있는 효율적인 구조를 만들어주는 것 템플릿 : 일정한 패턴으로 유지되는 특성을 가진 부분을 자유롭게 변경되는 성질을 가진 부분으로부터 독립시켜서 효과적으로 활용할 수 있도록하는 방법 3.1 다시 보는 초난감 DAO 3.1.1 예외처리 기능을 갖춘 DAO DB 커넥션이라는 제한적인 리소스를 공유해 사용하는 서버에서 동작하는 JDBC 코드에는 반드시 지켜야 할 원칙이 있음. → 예외처리 (예외가 발생할 경우 리소스를 반환하도록 만들어야함.</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 2장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_2/</link>
