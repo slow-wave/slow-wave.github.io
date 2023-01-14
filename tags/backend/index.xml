@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 02:31:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 23:28:01 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 5장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_5/</link>
+      <pubDate>Sat, 14 Jan 2023 23:28:01 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_5/</guid>
+      <description>5-1. 사용자 레벨 관리 기능 추가 정해진 조건에 따라 사용자의 레벨을 변경하는 기능 추가 5.1.1 필드 추가 Level 이늄 사용자 레벨을 이늄(enum)으로 정의
+public enum Level { Basic(1), SILVER(2), GOLD(3); private final int value; Level(int value) { this.value=value; } public int intValue() { return value; } public static Level valueOf(int value) { switch(value) { case 1: return BASIC; case 2: return SILVER; case 3: return GOLD; default: throw new AssertionError(&amp;#34;Unknown value: &amp;#34;+ value&amp;#34;); } } } User 필드 추가 public class User { .</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 4장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_4/</link>
