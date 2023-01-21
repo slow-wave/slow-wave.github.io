@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linked-list on slow-wave blog</title>
+    <link>http://slow-wave.github.io/tags/linked-list/</link>
+    <description>Recent content in linked-list on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2022 00:15:16 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Leetcode] Linked List 1 - 21. Merge Two Sorted Lists</title>
+      <link>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</link>
+      <pubDate>Tue, 13 Sep 2022 00:15:16 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</guid>
+      <description>[Leetcode] 21. Merge Two Sorted Lists 문제 링크
+이 문제는 제목 그대로 2개의 리스트를 정렬해서 결합하는 문제입니다. 구현되어있는 ListNode class를 이용해서 mergeTwoLists method를 완성하면 됩니다.
+풀이 과정 다음의 조건을 갖고 있다고 가정하고 실행 과정을 정리해보겠습니다.
+# Definition for singly-linked list. # class ListNode: # def __init__(self, val=0, next=None): # self.val = val # self.next = next a = [1,2,4] b = [1,3,4] dummy = cur = ListNode(0) Code (python) # Definition for singly-linked list.</description>
+    </item>
+    
+  </channel>
+</rss>

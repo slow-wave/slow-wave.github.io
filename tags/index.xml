@@ -57,20 +57,20 @@
     </item>
     
     <item>
+      <title>백준</title>
+      <link>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</link>
+      <pubDate>Sat, 10 Dec 2022 16:54:24 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bruteforce</title>
       <link>http://slow-wave.github.io/tags/bruteforce/</link>
       <pubDate>Mon, 28 Nov 2022 14:48:17 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/bruteforce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>http://slow-wave.github.io/tags/algorithm/</link>
-      <pubDate>Thu, 24 Nov 2022 01:14:27 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/algorithm/</guid>
       <description></description>
     </item>
     
@@ -120,29 +120,11 @@
     </item>
     
     <item>
-      <title>VM</title>
-      <link>http://slow-wave.github.io/tags/vm/</link>
-      <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/vm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>boostcourse 웹프로그래밍 풀스택</title>
-      <link>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</link>
+      <title>browser</title>
+      <link>http://slow-wave.github.io/tags/browser/</link>
       <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTTP</title>
-      <link>http://slow-wave.github.io/tags/http/</link>
-      <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/http/</guid>
+      <guid>http://slow-wave.github.io/tags/browser/</guid>
       <description></description>
     </item>
     
@@ -152,15 +134,6 @@
       <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph</title>
-      <link>http://slow-wave.github.io/tags/graph/</link>
-      <pubDate>Thu, 13 Oct 2022 17:08:34 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/graph/</guid>
       <description></description>
     </item>
     
@@ -192,15 +165,6 @@
     </item>
     
     <item>
-      <title>datastructure</title>
-      <link>http://slow-wave.github.io/tags/datastructure/</link>
-      <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/datastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>자료구조</title>
       <link>http://slow-wave.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/</link>
       <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
@@ -215,15 +179,6 @@
       <pubDate>Tue, 11 Oct 2022 16:04:21 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/deeplearing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bitcoin</title>
-      <link>http://slow-wave.github.io/tags/bitcoin/</link>
-      <pubDate>Sun, 02 Oct 2022 23:11:22 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/tags/bitcoin/</guid>
       <description></description>
     </item>
     
@@ -246,47 +201,47 @@
     </item>
     
     <item>
-      <title>linkedlist</title>
-      <link>http://slow-wave.github.io/tags/linkedlist/</link>
+      <title>linked-list</title>
+      <link>http://slow-wave.github.io/tags/linked-list/</link>
       <pubDate>Tue, 13 Sep 2022 00:15:16 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/linkedlist/</guid>
+      <guid>http://slow-wave.github.io/tags/linked-list/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DFS</title>
-      <link>http://slow-wave.github.io/tags/dfs/</link>
-      <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
+      <title>HTTP</title>
+      <link>http://slow-wave.github.io/tags/http/</link>
+      <pubDate>Tue, 06 Sep 2022 14:41:22 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/dfs/</guid>
+      <guid>http://slow-wave.github.io/tags/http/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programmers</title>
-      <link>http://slow-wave.github.io/tags/programmers/</link>
+      <title>graph</title>
+      <link>http://slow-wave.github.io/tags/graph/</link>
       <pubDate>Tue, 06 Sep 2022 14:23:31 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/programmers/</guid>
+      <guid>http://slow-wave.github.io/tags/graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BFS</title>
       <link>http://slow-wave.github.io/tags/bfs/</link>
-      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/tags/bfs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>백준</title>
-      <link>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</link>
-      <pubDate>Tue, 23 Aug 2022 11:14:32 +0900</pubDate>
+      <title>DFS</title>
+      <link>http://slow-wave.github.io/tags/dfs/</link>
+      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</guid>
+      <guid>http://slow-wave.github.io/tags/dfs/</guid>
       <description></description>
     </item>
     

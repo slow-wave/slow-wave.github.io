@@ -44,10 +44,13 @@
     <loc>http://slow-wave.github.io/tags/dp/</loc>
     <lastmod>2022-12-10T16:54:24+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/problem_solving/</loc>
+    <loc>http://slow-wave.github.io/categories/problem-solving/</loc>
     <lastmod>2022-12-10T16:54:24+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/python/</loc>
+    <lastmod>2022-12-10T16:54:24+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</loc>
     <lastmod>2022-12-10T16:54:24+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/spring/spring_toby_1/</loc>
@@ -68,25 +71,16 @@
     <loc>http://slow-wave.github.io/categories/algorithm/</loc>
     <lastmod>2022-11-24T01:14:27+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/algorithm/</loc>
-    <lastmod>2022-11-24T01:14:27+09:00</lastmod>
-  </url><url>
     <loc>http://slow-wave.github.io/post/database/db_mysql_2/</loc>
     <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/db/</loc>
     <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/leetcode/</loc>
-    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/categories/mysql/</loc>
-    <lastmod>2022-11-01T16:24:19+09:00</lastmod>
-  </url><url>
     <loc>http://slow-wave.github.io/tags/mysql/</loc>
     <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/sql/</loc>
+    <loc>http://slow-wave.github.io/categories/mysql/</loc>
     <lastmod>2022-11-01T16:24:19+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/database/db_mysql_1/</loc>
@@ -95,10 +89,10 @@
     <loc>http://slow-wave.github.io/post/database/db_mysql_0/</loc>
     <lastmod>2022-10-21T01:43:36+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/config/config_vm_0/</loc>
+    <loc>http://slow-wave.github.io/post/etc/etc_vm_0/</loc>
     <lastmod>2022-10-21T01:37:04+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/config/</loc>
+    <loc>http://slow-wave.github.io/categories/etc/</loc>
     <lastmod>2022-10-21T01:37:04+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/ubuntu/</loc>
@@ -110,28 +104,19 @@
     <loc>http://slow-wave.github.io/tags/virtualbox/</loc>
     <lastmod>2022-10-21T01:37:04+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/vm/</loc>
-    <lastmod>2022-10-21T01:37:04+09:00</lastmod>
-  </url><url>
     <loc>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_1/</loc>
     <lastmod>2022-10-14T16:34:33+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/boostcourse-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%92%80%EC%8A%A4%ED%83%9D/</loc>
+    <loc>http://slow-wave.github.io/tags/browser/</loc>
     <lastmod>2022-10-14T16:34:33+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/fullstack_boostcourse/</loc>
-    <lastmod>2022-10-14T16:34:33+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/http/</loc>
+    <loc>http://slow-wave.github.io/categories/fullstack/</loc>
     <lastmod>2022-10-14T16:34:33+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/web/</loc>
     <lastmod>2022-10-14T16:34:33+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/algorithm/algo_mst_1/</loc>
-    <lastmod>2022-10-13T17:08:34+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/graph/</loc>
     <lastmod>2022-10-13T17:08:34+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/kruskal/</loc>
@@ -149,9 +134,6 @@
     <loc>http://slow-wave.github.io/categories/data-structure/</loc>
     <lastmod>2022-10-12T17:04:59+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/datastructure/</loc>
-    <lastmod>2022-10-12T17:04:59+09:00</lastmod>
-  </url><url>
     <loc>http://slow-wave.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/</loc>
     <lastmod>2022-10-12T17:04:59+09:00</lastmod>
   </url><url>
@@ -167,13 +149,10 @@
     <loc>http://slow-wave.github.io/post/database/db_programming_0/</loc>
     <lastmod>2022-10-06T00:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/categories/database/</loc>
+    <loc>http://slow-wave.github.io/categories/db/</loc>
     <lastmod>2022-10-06T00:50:00+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</loc>
-    <lastmod>2022-10-02T23:11:22+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/bitcoin/</loc>
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/blockchain/</loc>
@@ -194,34 +173,28 @@
     <loc>http://slow-wave.github.io/post/blockchain/blockchain_intro/</loc>
     <lastmod>2022-09-28T16:06:51+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/problem_solving/linkedlist_1/</loc>
+    <loc>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</loc>
     <lastmod>2022-09-13T00:15:16+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/leetcode/</loc>
     <lastmod>2022-09-13T00:15:16+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/linkedlist/</loc>
+    <loc>http://slow-wave.github.io/tags/linked-list/</loc>
     <lastmod>2022-09-13T00:15:16+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/fullstack_boostcourse/web_boostcourse_0/</loc>
     <lastmod>2022-09-06T14:41:22+09:00</lastmod>
   </url><url>
+    <loc>http://slow-wave.github.io/tags/http/</loc>
+    <lastmod>2022-09-06T14:41:22+09:00</lastmod>
+  </url><url>
     <loc>http://slow-wave.github.io/post/problem_solving/ps_bfs_dfs_3/</loc>
     <lastmod>2022-09-06T14:23:31+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/dfs/</loc>
-    <lastmod>2022-09-06T14:23:31+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/programmers/</loc>
+    <loc>http://slow-wave.github.io/tags/graph/</loc>
     <lastmod>2022-09-06T14:23:31+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/problem_solving/ps_bfs_dfs_2/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/bfs/</loc>
-    <lastmod>2022-08-23T11:14:32+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/%EB%B0%B1%EC%A4%80/</loc>
     <lastmod>2022-08-23T11:14:32+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/problem_solving/ps_bfs_dfs_1/</loc>
@@ -231,6 +204,12 @@
     <lastmod>2022-08-12T22:29:58+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</loc>
+    <lastmod>2022-08-10T21:50:38+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/bfs/</loc>
+    <lastmod>2022-08-10T21:50:38+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/tags/dfs/</loc>
     <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/search/</loc>

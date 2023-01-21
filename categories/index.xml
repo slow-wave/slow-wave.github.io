@@ -21,16 +21,16 @@
     </item>
     
     <item>
-      <title>problem_solving</title>
-      <link>http://slow-wave.github.io/categories/problem_solving/</link>
+      <title>Problem Solving</title>
+      <link>http://slow-wave.github.io/categories/problem-solving/</link>
       <pubDate>Sat, 10 Dec 2022 16:54:24 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/categories/problem_solving/</guid>
+      <guid>http://slow-wave.github.io/categories/problem-solving/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>algorithm</title>
+      <title>Algorithm</title>
       <link>http://slow-wave.github.io/categories/algorithm/</link>
       <pubDate>Thu, 24 Nov 2022 01:14:27 +0900</pubDate>
       
@@ -39,16 +39,7 @@
     </item>
     
     <item>
-      <title>leetcode</title>
-      <link>http://slow-wave.github.io/categories/leetcode/</link>
-      <pubDate>Tue, 01 Nov 2022 16:24:19 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/categories/leetcode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mysql</title>
+      <title>MySQL</title>
       <link>http://slow-wave.github.io/categories/mysql/</link>
       <pubDate>Tue, 01 Nov 2022 16:24:19 +0900</pubDate>
       
@@ -57,34 +48,25 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>http://slow-wave.github.io/categories/sql/</link>
-      <pubDate>Tue, 01 Nov 2022 16:24:19 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/categories/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>config</title>
-      <link>http://slow-wave.github.io/categories/config/</link>
+      <title>ETC</title>
+      <link>http://slow-wave.github.io/categories/etc/</link>
       <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/categories/config/</guid>
+      <guid>http://slow-wave.github.io/categories/etc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>fullstack_boostcourse</title>
-      <link>http://slow-wave.github.io/categories/fullstack_boostcourse/</link>
+      <title>Fullstack</title>
+      <link>http://slow-wave.github.io/categories/fullstack/</link>
       <pubDate>Fri, 14 Oct 2022 16:34:33 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/categories/fullstack_boostcourse/</guid>
+      <guid>http://slow-wave.github.io/categories/fullstack/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>data structure</title>
+      <title>Data Structure</title>
       <link>http://slow-wave.github.io/categories/data-structure/</link>
       <pubDate>Wed, 12 Oct 2022 17:04:59 +0900</pubDate>
       
@@ -93,7 +75,7 @@
     </item>
     
     <item>
-      <title>deeplearing</title>
+      <title>Deeplearing</title>
       <link>http://slow-wave.github.io/categories/deeplearing/</link>
       <pubDate>Tue, 11 Oct 2022 16:04:21 +0900</pubDate>
       
@@ -102,16 +84,16 @@
     </item>
     
     <item>
-      <title>database</title>
-      <link>http://slow-wave.github.io/categories/database/</link>
+      <title>DB</title>
+      <link>http://slow-wave.github.io/categories/db/</link>
       <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/categories/database/</guid>
+      <guid>http://slow-wave.github.io/categories/db/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blockchain</title>
+      <title>Blockchain</title>
       <link>http://slow-wave.github.io/categories/blockchain/</link>
       <pubDate>Sun, 02 Oct 2022 23:11:22 +0900</pubDate>
       

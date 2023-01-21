@@ -136,10 +136,10 @@ WITH CTE AS (SELECT Salary, RANK () OVER (ORDER BY Salary desc) AS RANK_desc FRO
     
     <item>
       <title>[config]Virtual Box, Vagrant를 이용한 가상 머신 환경 구축</title>
-      <link>http://slow-wave.github.io/post/config/config_vm_0/</link>
+      <link>http://slow-wave.github.io/post/etc/etc_vm_0/</link>
       <pubDate>Fri, 21 Oct 2022 01:37:04 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/config/config_vm_0/</guid>
+      <guid>http://slow-wave.github.io/post/etc/etc_vm_0/</guid>
       <description>intro mac에서 virtualbox를 이용해 비교적 간단하게 ubuntu 환경을 구축하는 방법에 대한 글입니다.
 virtualbox는 Oracle VM VirtualBox는 GPLv2 라이선스로 배포되는 오픈 소스 하드웨어 리소스 가상화 프로그램입니다. 일반 컴퓨터에 운영체제를 설치하고 프로그램을 실행할 수 있는 것처럼, 가상머신 위에도 운영체제를 설치하고 프로그램을 실행할 수 있습니다. Vagrant는 Mitchell Hashimoto가 Ruby로 개발하고 2010년 3월 처음 릴리스한 커맨드라인 인터페이스로 가상 머신 기반 개발 환경을 관리하는 도구입니다. 우분투(Ubuntu)는 가장 널리 쓰이는 오픈소스 리눅스 배포판 중 하나입니다.
 아래 태스크들을 실행하기 전에 homebrew를 먼저 설치해야 합니다.</description>
@@ -252,10 +252,10 @@ Client Tier - Presentation Layer 응용 프로그램의 최상단임 UI 제공 (
     
     <item>
       <title>[Leetcode] Linked List 1 - 21. Merge Two Sorted Lists</title>
-      <link>http://slow-wave.github.io/post/problem_solving/linkedlist_1/</link>
+      <link>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</link>
       <pubDate>Tue, 13 Sep 2022 00:15:16 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/problem_solving/linkedlist_1/</guid>
+      <guid>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</guid>
       <description>[Leetcode] 21. Merge Two Sorted Lists 문제 링크
 이 문제는 제목 그대로 2개의 리스트를 정렬해서 결합하는 문제입니다. 구현되어있는 ListNode class를 이용해서 mergeTwoLists method를 완성하면 됩니다.
 풀이 과정 다음의 조건을 갖고 있다고 가정하고 실행 과정을 정리해보겠습니다.

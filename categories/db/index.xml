@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DB on slow-wave blog</title>
+    <link>http://slow-wave.github.io/categories/db/</link>
+    <description>Recent content in DB on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Oct 2022 00:50:00 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[database] Re-introduction to DB</title>
+      <link>http://slow-wave.github.io/post/database/db_programming_0/</link>
+      <pubDate>Thu, 06 Oct 2022 00:50:00 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/database/db_programming_0/</guid>
+      <description>데이터베이스 프로그래밍 수업의 내용을 정리한 문서입니다. 시간이 조금 지나고나서야 중요한 내용 임을 깨달아서 예전에 굿노트에 정리했던 것들을 다시 글로 기록하려고 합니다. 더 알고 싶은 부분은 조금 더 파고 들어볼 예정입니다.
+1. DB 기본 개념 1) DB vs. DBMS DB는 저장된 데이터의 모임. 데이터 그 자체 컨텐츠를 의미함. DBMS는 데이터 접근을 위한 프로그램 set임. oracle MS SQL server MySQL MariaDB 2) Typical web-based application architecture [출처]
+Client Tier - Presentation Layer 응용 프로그램의 최상단임 UI 제공 (인터넷 브라우저의 정적 데이터 제공) 주로 web server를 뜻 함 (물리적 WEB server) HTML, Javascript, CSS, Image Application Tier - Business Logic Layer 클라이언트 요청에 대해 마치 서버처럼 행동함 정보 처리의 규칙 존재(주로 동적 데이터임) middleware, backend 주로 application server 뜻함(물리적 WAS server) Data Tier - Data Access Layer DB와 엑세스해서 읽고 쓰고 관리하는 것을 포함 DB server (물리적 DB server) MySQL 3) Rational DB Domain : attribute가 가질 수 있는 값의 집합 Attribute(column) Tuple(record, row) Relation(table) DB - set of relations 4) Schema, Instance Schema : DB의 논리적 구조, 뼈대 Instance : DB의 실제 컨텐츠, DB의 상태 5) Key Key tuple을 구별하기 위한 attribute 집합 Superkey relation에서 unique하게 tuple을 식별할 수 있는 attribute 집합 Candidate Key superkey 중에서 minimal한 key Primary Key candidate key 중 하나 (relation을 정의할 때 선택) entity Integrity : Null이 될 수 없음.</description>
+    </item>
+    
+  </channel>
+</rss>
