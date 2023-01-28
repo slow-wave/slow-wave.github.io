@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>graph-search on slow-wave blog</title>
+    <link>http://slow-wave.github.io/tags/graph-search/</link>
+    <description>Recent content in graph-search on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2022 21:50:38 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/graph-search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[algorithm] DFS vs. BFS</title>
+      <link>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</link>
+      <pubDate>Wed, 10 Aug 2022 21:50:38 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</guid>
+      <description>Graph Search graph search 방법에는 DFS, BFS 2가지 종류가 있다.
+DFS(Depth-First-Search) 정의 root node 혹은 다른 임의의 node에서 시작해서 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방식이다.
+binary tree를 순회할 때 사용했던 다음의 순회 방법이 DFS에 속한다.
+inorder preorder postorder 구현 방법 stack을 이용해서 구현 처음에는 스택에 노드가 없으니깐 시작할 노드를 넣는다. stack에서 노드를 하나 꺼내서 해당 node의 child node를 전부 스택에 넣고 꺼낸 노드는 출력한다. child node를 stack에 넣을 때 한번 stack에 넣었던 node는 다시 넣지 않는다.</description>
+    </item>
+    
+  </channel>
+</rss>

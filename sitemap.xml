@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://slow-wave.github.io/post/spring/spring_toby_5/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <loc>http://slow-wave.github.io/post/spring/spring_toby_6/</loc>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/backend/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/java/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/spring/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/spring/</loc>
-    <lastmod>2023-01-14T23:28:01+09:00</lastmod>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/</loc>
+    <lastmod>2023-01-29T01:50:17+09:00</lastmod>
+  </url><url>
+    <loc>http://slow-wave.github.io/post/spring/spring_toby_5/</loc>
     <lastmod>2023-01-14T23:28:01+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/spring/spring_toby_4/</loc>
@@ -128,7 +131,7 @@
     <loc>http://slow-wave.github.io/tags/prim/</loc>
     <lastmod>2022-10-13T17:08:34+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/data_structure/data_structure_0/</loc>
+    <loc>http://slow-wave.github.io/post/data_structure/ds_intro/</loc>
     <lastmod>2022-10-12T17:04:59+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/categories/data-structure/</loc>
@@ -152,7 +155,7 @@
     <loc>http://slow-wave.github.io/categories/db/</loc>
     <lastmod>2022-10-06T00:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</loc>
+    <loc>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch6/</loc>
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/tags/blockchain/</loc>
@@ -161,16 +164,16 @@
     <loc>http://slow-wave.github.io/categories/blockchain/</loc>
     <lastmod>2022-10-02T23:11:22+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch5/</loc>
+    <loc>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch5/</loc>
     <lastmod>2022-10-01T16:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch4/</loc>
+    <loc>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch4/</loc>
     <lastmod>2022-09-30T14:27:55+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch2/</loc>
+    <loc>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch2/</loc>
     <lastmod>2022-09-29T10:35:18+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/post/blockchain/blockchain_intro/</loc>
+    <loc>http://slow-wave.github.io/post/blockchain/bc_intro/</loc>
     <lastmod>2022-09-28T16:06:51+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/post/problem_solving/ps_linkedlist_1/</loc>
@@ -206,10 +209,7 @@
     <loc>http://slow-wave.github.io/post/algorithm/algo_bfs_vs_dfs/</loc>
     <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url><url>
-    <loc>http://slow-wave.github.io/tags/bfs/</loc>
-    <lastmod>2022-08-10T21:50:38+09:00</lastmod>
-  </url><url>
-    <loc>http://slow-wave.github.io/tags/dfs/</loc>
+    <loc>http://slow-wave.github.io/tags/graph-search/</loc>
     <lastmod>2022-08-10T21:50:38+09:00</lastmod>
   </url><url>
     <loc>http://slow-wave.github.io/search/</loc>

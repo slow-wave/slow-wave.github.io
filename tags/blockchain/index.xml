@@ -13,49 +13,49 @@
     <lastBuildDate>Sun, 02 Oct 2022 23:11:22 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[blockchain] ch6. Transactions</title>
-      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</link>
+      <link>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch6/</link>
       <pubDate>Sun, 02 Oct 2022 23:11:22 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch6/</guid>
+      <guid>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch6/</guid>
       <description>용어 정리 coinbase : 각 블록의 첫번째 트랜잭션이며 마이닝을 위한 보상. locking script : 출력에 배치되는 지출 조건. unlocking script : 출력을 사용할 수 있도록 하는 스크립트 P2PKH : 비트코인 내에서 가장 일반적인 스크립트 형식으로 거래 유형이다. digital signature : 개인키와 공개키암호를 이용한 전자서명이다. 이를 통해 본인임을 인증하고 수신인은 메세지가 위,변조 되지 않았음을 확인한다. SIGHASH : 데이터 가운데 어떤 부분 확인하고 서명해야하는지 지정해준다. Transaction outputs Transaction output은 불연속적이고 분리할 수 없다는 특징을 갖고 있다.</description>
     </item>
     
     <item>
       <title>[blockchain] ch5.Wallets</title>
-      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch5/</link>
+      <link>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch5/</link>
       <pubDate>Sat, 01 Oct 2022 16:21:44 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch5/</guid>
+      <guid>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch5/</guid>
       <description>Mastering Bitcoin: Programming the Open Blockchain 2nd Edition 책을 정리한 내용입니다.
 용어 정리 Mnemonic codes word : Mnemonic code word는 Deterministic wallet을 도출하기위해 seed로 사용되는 임의의 숫자를 나타내는 단어 순서임. 랜덤 숫자에 비해 읽고 쓰기 쉬움. HD wallet : 비트코인의 BIP32표준으로 정의되어 현재 가장 발전된 형태의 지갑임. 하나의 마스터 시드 키에서 다수의 지갑을 생성할 수 있어 편리함. Nondeterministic Wallet (JBOK wallet, just a bunch of keys) 지갑 안에 있는 키 끼리 연관성 없음.</description>
     </item>
     
     <item>
       <title>[blockchain] ch4.Keys, Addresses</title>
-      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch4/</link>
+      <link>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch4/</link>
       <pubDate>Fri, 30 Sep 2022 14:27:55 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch4/</guid>
+      <guid>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch4/</guid>
       <description>Mastering Bitcoin: Programming the Open Blockchain 2nd Edition 책을 정리한 내용입니다.
 용어 정리 Cryptography : 암호학 Public key : 공개키는 지정된 인증기관에 의해 제공되는 키 값이다. 공개키로부터 생성되는 개인키와 함께 결합되어 메시지 및 전자서명의 암호화와 복원에 사용할 수 있다. Private key : 개인키는 무작위로 추출된 숫자와 문자의 조합으로 이루어진 비밀번호와 같은 기능을 한다. elliptic curve multiplication(ECC, 타원곡선암호기술) : RSA의 대안으로 대두된 이산대수의 난해성에 기반한 공개키 암호화 알고리즘 script : 스택 기반의 프로그래밍 언어이다.</description>
     </item>
     
     <item>
       <title>[blockchain] ch2. How bitcoin works</title>
-      <link>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch2/</link>
+      <link>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch2/</link>
       <pubDate>Thu, 29 Sep 2022 10:35:18 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/blockchain/mastering_bitcoin_ch2/</guid>
+      <guid>http://slow-wave.github.io/post/blockchain/bc_mastering_bitcoin_ch2/</guid>
       <description>Mastering Bitcoin: Programming the Open Blockchain 2nd Edition 책을 정리한 내용입니다.
 용어 정리 Decentralized : 탈중앙화. 분산된 소규모 단위로 자율적으로 운영되는 것. Mining : 채굴. 암호화폐의 거래내역을 기록한 블록을 생성하고 그 대가로 암호화폐를 얻는 행위. Peer-to-peer network : 인터넷에 연결된 다수의 개별 사용자들이 중개기관을 거치지 않고 직접 데이터를 주고받는 것. Consensus : 악의적인 상황이 발생하더라도 네트워크를 올바른 방향으로 이끌고자 하는 다수의 노드들이 상호 검증을 거쳐 올바른 블록 생성을 이끌어내는 프로세스와 알고리즘.</description>
     </item>
     
     <item>
       <title>[blockchain] blockchain의 개념</title>
-      <link>http://slow-wave.github.io/post/blockchain/blockchain_intro/</link>
+      <link>http://slow-wave.github.io/post/blockchain/bc_intro/</link>
       <pubDate>Wed, 28 Sep 2022 16:06:51 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/blockchain/blockchain_intro/</guid>
+      <guid>http://slow-wave.github.io/post/blockchain/bc_intro/</guid>
       <description>다음은 블록체인에 대한 기본적인 개념을 이해할 수 있었던 But how does bitcoin actually work? 영상을 보고 정리한 내용입니다.**
 블록체인을 소유하고 있는건 어떤 의미일까? 비트코인을 만든다면?
 먼저 친구들과의 금전 거래 내역을 공동의 장부에 기록한다. 장부를 믿으면 되니깐, 친구들과 세상에 대한 신뢰의 필요성은 점점 줄어든다. 신뢰가 없어도 장부로 거래를 운영할 수 있다면 그걸 암호화 화폐라고 부르지 않을까?
