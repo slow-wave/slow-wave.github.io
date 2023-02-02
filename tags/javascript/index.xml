@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript on slow-wave blog</title>
+    <link>http://slow-wave.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on slow-wave blog</description>
+    <image>
+      <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2023 16:31:43 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[javascript] ES6&#43; 핵심 문법 정리</title>
+      <link>http://slow-wave.github.io/post/javascript/js_0/</link>
+      <pubDate>Tue, 31 Jan 2023 16:31:43 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/javascript/js_0/</guid>
+      <description>0) Intro javascript 문법 공부를 위해 Inflearn에 있는 강의를 듣고 정리한 글입니다. 두 강의 모두 자바스크립트 문법을 공부하는데 많은 도움이 되어 추천하고 싶습니다.
+이룸코딩님의 자바스크립트 ES6+ 기초 핵심 문법 코딩앙마님의 자바스크립트 중급 강좌 1) 블록 범위 생성자 스코프 스코프는 변수에 접근 가능한 범위임. 종류 함수 레벨 스코프: 함수 블록 내에서 선언된 변수는 함수 내에서만 접근 가능 기존의 변수 선언 키워드인 var는 함수 스코프 블록 레벨 스코프:함수를 포함한 모든 코드 블록(함수, if 문, for문, while문, try/catch 문등) 내에서 선언된 변수는 코드 블록 내에서만 접근 가능 let, const는 블록 스코프 var의 문제점 함수를 제외한 다른 코드 블록에서는 개별적인 스코프를 가질 수 없다는 문제점 있음.</description>
+    </item>
+    
+  </channel>
+</rss>
