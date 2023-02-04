@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 16:31:43 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 04:56:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 6장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_7/</link>
+      <pubDate>Sun, 05 Feb 2023 04:56:34 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_7/</guid>
+      <description>Intro AOP는 IoC/DI, 서비스 추상화와 더불어 스프링의 3대 기술임. 단위 테스트 작은 단위의 테스트가 더 좋음. → 테스트 실패시 원인을 찾기가 쉬움. 테스트 단위가 작아야 테스트의 의도나 내용이 분명해짐. 테스트의 대상이 환경이나, 외부 서버, 다른 클래스의 코드에 종속되고 영향을 받지 않도록 고립시킬 필요가 있음. → 테스트 대역 사용 통합테스트 - 두 개 이상의 성격이나 계층이 다른 오브젝트가 연동하도록 만들어 테스트하거나, 또는 외부의 DB나 파일, 서비스 등의 리소스가 참여하는 테스트 단위테스트 vs.</description>
+    </item>
+    
     <item>
       <title>[javascript] ES6&#43; 핵심 문법 정리</title>
       <link>http://slow-wave.github.io/post/javascript/js_0/</link>
