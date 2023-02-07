@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Javascript on slow-wave blog</title>
-    <link>http://slow-wave.github.io/tags/javascript/</link>
-    <description>Recent content in Javascript on slow-wave blog</description>
+    <title>(book)모던 자바스크립트 Deep Dive on slow-wave blog</title>
+    <link>http://slow-wave.github.io/categories/book%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-deep-dive/</link>
+    <description>Recent content in (book)모던 자바스크립트 Deep Dive on slow-wave blog</description>
     <image>
       <url>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://slow-wave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Feb 2023 14:46:04 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 14:46:04 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/book%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-deep-dive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[javascript] 모던 자바스크립트 Deep Dive 10장</title>
       <link>http://slow-wave.github.io/post/javascript/js_1/</link>
@@ -18,16 +18,6 @@
       
       <guid>http://slow-wave.github.io/post/javascript/js_1/</guid>
       <description>10장 객체 리터럴 1) 객체란? 자바스크립트는 객체(object) 기반의 프로그래밍 언어다. 원시값을 제외한 나머지 값(함수, 배열, 정규 표현식 등)은 모두 객체다. 객체 타입은 다양한 타입의 값을 하나의 단위로 구성한 복합적인 자료구조다. 객체 타입의 값은 mutable value다. (변할 수 있는 값) 객체는 0개 이상의 프로퍼티로 구성된 집합이며, 프로퍼티는 key-value로 구성된다. 객체는 프로퍼티와 메서드로 구성된 집합체다. 프로퍼티 : 객체의 상태를 나타내는 값 메서드 : 프로퍼티를 참조하고 조작할 수 있는 동작 객체지향프로그래밍 : 객체의 집합으로 프로그램을 표현하려는 프로그래밍 패러다임 2) 객체 리터럴에 의한 객체 생성 자바스크립트는 프로토타입 기반 객체지향 언어로서 다양한 객체 생성 방법을 지원함.</description>
-    </item>
-    
-    <item>
-      <title>[javascript] ES6&#43; 핵심 문법 정리</title>
-      <link>http://slow-wave.github.io/post/javascript/js_0/</link>
-      <pubDate>Tue, 31 Jan 2023 16:31:43 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/post/javascript/js_0/</guid>
-      <description>0) Intro javascript 문법 공부를 위해 Inflearn에 있는 강의를 듣고 정리한 글입니다. 두 강의 모두 자바스크립트 문법을 공부하는데 많은 도움이 되어 추천하고 싶습니다. 코드 예제의 경우 공부를 위해서 변형한 부분이 있습니다.
-이룸코딩님의 자바스크립트 ES6+ 기초 핵심 문법 코딩앙마님의 자바스크립트 중급 강좌 1) 블록 범위 생성자 스코프 스코프는 변수에 접근 가능한 범위임. 종류 함수 레벨 스코프: 함수 블록 내에서 선언된 변수는 함수 내에서만 접근 가능 기존의 변수 선언 키워드인 var는 함수 스코프 블록 레벨 스코프:함수를 포함한 모든 코드 블록(함수, if 문, for문, while문, try/catch 문등) 내에서 선언된 변수는 코드 블록 내에서만 접근 가능 let, const는 블록 스코프 var의 문제점 함수를 제외한 다른 코드 블록에서는 개별적인 스코프를 가질 수 없다는 문제점 있음.</description>
     </item>
     
   </channel>

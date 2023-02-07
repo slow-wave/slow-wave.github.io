@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 04:56:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 14:46:04 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[javascript] 모던 자바스크립트 Deep Dive 10장</title>
+      <link>http://slow-wave.github.io/post/javascript/js_1/</link>
+      <pubDate>Tue, 07 Feb 2023 14:46:04 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/javascript/js_1/</guid>
+      <description>10장 객체 리터럴 1) 객체란? 자바스크립트는 객체(object) 기반의 프로그래밍 언어다. 원시값을 제외한 나머지 값(함수, 배열, 정규 표현식 등)은 모두 객체다. 객체 타입은 다양한 타입의 값을 하나의 단위로 구성한 복합적인 자료구조다. 객체 타입의 값은 mutable value다. (변할 수 있는 값) 객체는 0개 이상의 프로퍼티로 구성된 집합이며, 프로퍼티는 key-value로 구성된다. 객체는 프로퍼티와 메서드로 구성된 집합체다. 프로퍼티 : 객체의 상태를 나타내는 값 메서드 : 프로퍼티를 참조하고 조작할 수 있는 동작 객체지향프로그래밍 : 객체의 집합으로 프로그램을 표현하려는 프로그래밍 패러다임 2) 객체 리터럴에 의한 객체 생성 자바스크립트는 프로토타입 기반 객체지향 언어로서 다양한 객체 생성 방법을 지원함.</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 6장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_7/</link>
@@ -26,7 +35,7 @@
       <pubDate>Tue, 31 Jan 2023 16:31:43 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/post/javascript/js_0/</guid>
-      <description>0) Intro javascript 문법 공부를 위해 Inflearn에 있는 강의를 듣고 정리한 글입니다. 두 강의 모두 자바스크립트 문법을 공부하는데 많은 도움이 되어 추천하고 싶습니다.
+      <description>0) Intro javascript 문법 공부를 위해 Inflearn에 있는 강의를 듣고 정리한 글입니다. 두 강의 모두 자바스크립트 문법을 공부하는데 많은 도움이 되어 추천하고 싶습니다. 코드 예제의 경우 공부를 위해서 변형한 부분이 있습니다.
 이룸코딩님의 자바스크립트 ES6+ 기초 핵심 문법 코딩앙마님의 자바스크립트 중급 강좌 1) 블록 범위 생성자 스코프 스코프는 변수에 접근 가능한 범위임. 종류 함수 레벨 스코프: 함수 블록 내에서 선언된 변수는 함수 내에서만 접근 가능 기존의 변수 선언 키워드인 var는 함수 스코프 블록 레벨 스코프:함수를 포함한 모든 코드 블록(함수, if 문, for문, while문, try/catch 문등) 내에서 선언된 변수는 코드 블록 내에서만 접근 가능 let, const는 블록 스코프 var의 문제점 함수를 제외한 다른 코드 블록에서는 개별적인 스코프를 가질 수 없다는 문제점 있음.</description>
     </item>
     
@@ -45,8 +54,7 @@
       <pubDate>Sat, 14 Jan 2023 23:28:01 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/post/spring/spring_toby_5/</guid>
-      <description>5-1. 사용자 레벨 관리 기능 추가 정해진 조건에 따라 사용자의 레벨을 변경하는 기능 추가 5.1.1 필드 추가 Level 이늄 사용자 레벨을 이늄(enum)으로 정의
-public enum Level { Basic(1), SILVER(2), GOLD(3); private final int value; Level(int value) { this.value=value; } public int intValue() { return value; } public static Level valueOf(int value) { switch(value) { case 1: return BASIC; case 2: return SILVER; case 3: return GOLD; default: throw new AssertionError(&amp;#34;Unknown value: &amp;#34;+ value&amp;#34;); } } } User 필드 추가 public class User { .</description>
+      <description>5-1. 사용자 레벨 관리 기능 추가 정해진 조건에 따라 사용자의 레벨을 변경하는 기능 추가 5.1.1 필드 추가 Level 이늄 사용자 레벨을 이늄(enum)으로 정의 public enum Level { Basic(1), SILVER(2), GOLD(3); private final int value; Level(int value) { this.value=value; } public int intValue() { return value; } public static Level valueOf(int value) { switch(value) { case 1: return BASIC; case 2: return SILVER; case 3: return GOLD; default: throw new AssertionError(&amp;#34;Unknown value: &amp;#34;+ value&amp;#34;); } } } User 필드 추가 public class User { .</description>
     </item>
     
     <item>
