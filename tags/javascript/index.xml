@@ -10,9 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Feb 2023 14:46:04 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 21:05:18 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[javascript] 모던 자바스크립트 Deep Dive 10장</title>
+      <title>[javascript] 모던 자바스크립트 Deep Dive , 원시 값과 객체의 비교</title>
+      <link>http://slow-wave.github.io/post/javascript/js_2/</link>
+      <pubDate>Thu, 09 Feb 2023 21:05:18 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/javascript/js_2/</guid>
+      <description>1. 원시 값과 객체의 비교 0) 정리 자바스크립트의 데이터 타입 원시 타입(primitive type): 숫자, 문자열, 불리언, null, undefined, symbol 객체 타입(object/reference type): 객체 원시 타입 vs. 객체 타입 원시 타입 객체 타입 변경가능한가? immutable mutable 변수에 할당시 확보된 메모리 공간에는 어떤 값이 저장되는가? 실제 값 참조 값 변수를 다른 변수에 할당할 때 전달 방법은? 값에 의한 전달 참조에 의한 전달 1) 원시 값 원시 타입의 값은 변경 불가능한 값이다. (한번 생성된 원시 값은 읽기 전용 값임.</description>
+    </item>
+    
+    <item>
+      <title>[javascript] 모던 자바스크립트 Deep Dive , 객체 리터럴</title>
       <link>http://slow-wave.github.io/post/javascript/js_1/</link>
       <pubDate>Tue, 07 Feb 2023 14:46:04 +0900</pubDate>
       
