@@ -12,13 +12,13 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Feb 2023 18:03:37 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[MOVIE APP] 토이 프로젝트 API 리팩토링</title>
-      <link>http://slow-wave.github.io/post/project/project_1/</link>
+      <title>[project] 토이 프로젝트 리팩토링 1 - REST API</title>
+      <link>http://slow-wave.github.io/post/project/movie_1/</link>
       <pubDate>Mon, 20 Feb 2023 18:03:37 +0900</pubDate>
       
-      <guid>http://slow-wave.github.io/post/project/project_1/</guid>
+      <guid>http://slow-wave.github.io/post/project/movie_1/</guid>
       <description>최근에 영화 리뷰를 저장할 수 있는 웹 서비스를 개발하는 토이 프로젝트를 진행했습니다. MERN(MongoDB, Express, React, Node) 스택으로 개발했으며 TMDB API의 영화 정보를 활용했습니다. 왓챠피디아 같은 커뮤니티형보다는 개인 기록형 영화 리뷰 저장소를 만드는 것을 목표로 했습니다. 그래서 주 기능은 1) 영화를 탐색하고 2) 북마크하고 3) 리뷰를 작성하는 것입니다.
-정의한 요구사항 대로 구현하니 기능은 잘 동작하지만 코드 상에는 많은 문제가 있다는 것을 알게되었습니다. 점차적으로 개선하면서 공부한 것들을 기록하려고 합니다. 제가 생각하는 가장 큰 문제는 잘못 설계된 HTTP API입니다.</description>
+정의한 요구사항 대로 구현하니 기능은 잘 동작하지만 코드 상에는 많은 문제와 개선해야 할 점이 있다는 것을 알게되었습니다. 점차적으로 개선하면서 공부한 것들을 기록하려고 합니다. 제가 생각하는 가장 큰 문제는 잘못 설계된 HTTP API입니다.</description>
     </item>
     
     <item>
