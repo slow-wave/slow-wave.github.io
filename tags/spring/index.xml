@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 04:56:34 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 03:12:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 6장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_8/</link>
+      <pubDate>Sun, 05 Mar 2023 03:12:21 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_8/</guid>
+      <description>스프링의 3대 핵심 기술인 IoC/DI, 서비스 추상화, AOP를 애플리케이션 개발에 활용해보자. SQL과 DAO의 분리 SQL을 적절히 분리해 DAO 코드와 다른 파일이나 위치에 두고 관리하자 분리 방법 XML 설정을 이용한 분리 - SQL을 스프링의 XML 설정파일로 빼기 SQL 맵 프로퍼티 방식 - SQL을 하나의 컬렉션으로 담아두기. 맵의 키 값을 이용해 SQL 문장을 가져오게함. 스프링의 설정파일 안에 SQL을 두면 SQL과 DI 설정정보가 섞여 관리하기 어렵다는 문제가 있음. 해결) 독립적인 SQL 제공 서비스가 필요함.</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 6장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_7/</link>
