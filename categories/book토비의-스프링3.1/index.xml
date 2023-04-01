@@ -10,9 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Mar 2023 03:12:21 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/book%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%813.1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 03:29:48 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/book%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%813.1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[토비의 스프링 3.1] 6장 정리</title>
+      <title>[토비의 스프링 3.1] 8장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_9/</link>
+      <pubDate>Sun, 02 Apr 2023 03:29:48 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_9/</guid>
+      <description>스프링이란 무엇인가? 스프링 프레임워크가 만들어진 이유와 존재 목적, 추구하는 가치는 무엇일까? 스프링의 정의 스프링 : 자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크 애플리케이션 프레임워크 : 특정 계층이나, 기술, 업무 분야에 국한되지 않고 애플리케이션의 전 영역을 포괄하는 범용적인 프레임워크임. 애플리케이션 개발의 전 과정을 빠르고 편리하며 효율적으로 진행하는데 일차적인 목표를 두는 프레임워크임. 스프링의 탄생 스프링의 기원은 로드 존슨 책의 예제 코드임. 책에서 강조한 중요한 전략의 하나는 ‘항상 프레임워크로 접근하라’라는 것임.</description>
+    </item>
+    
+    <item>
+      <title>[토비의 스프링 3.1] 7장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_8/</link>
       <pubDate>Sun, 05 Mar 2023 03:12:21 +0900</pubDate>
       
