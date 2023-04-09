@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 03:29:48 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 23:04:39 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[토비의 스프링 3.1] 9장 정리</title>
+      <link>http://slow-wave.github.io/post/spring/spring_toby_10/</link>
+      <pubDate>Sun, 09 Apr 2023 23:04:39 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/post/spring/spring_toby_10/</guid>
+      <description>스프링을 이용해 애플리케이션 프로젝트를 처음 구성할 때 알아야할 내용을 알아보자. 스프링 개발에 도움이 되는 개발 툴과 빌드 방법도 살펴보자. 스프링을 애플리케이션에 적용할 수 있는 아키텍처의 종류와 특징에 대해서 알아보자. 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션 스프링으로 만들 수 있는 애플리케이션의 종류에는 제한이 없음. 자바 언어를 사용하는 모든 종류의 프로젝트라면 어디든 사용할 수 있음. 스윙이나 이클립스 RCP로 만드는 독립형 프로그램 애플릿이나 모바일 애플리케이션 개발 스프링을 핵심 엔진으로 사용하는 엔터프라이즈 미들웨어 제품 스프링은 주로 자바 엔터프라이즈 환경에서 동작하는 애플리케이션을 개발하는 목적으로 사용됨.</description>
+    </item>
+    
     <item>
       <title>[토비의 스프링 3.1] 8장 정리</title>
       <link>http://slow-wave.github.io/post/spring/spring_toby_9/</link>
