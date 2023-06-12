@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 23:04:39 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 23:11:29 +0900</lastBuildDate><atom:link href="http://slow-wave.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript</title>
+      <link>http://slow-wave.github.io/categories/javascript/</link>
+      <pubDate>Mon, 12 Jun 2023 23:11:29 +0900</pubDate>
+      
+      <guid>http://slow-wave.github.io/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>(book)토비의 스프링3.1</title>
       <link>http://slow-wave.github.io/categories/book%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%813.1/</link>
@@ -35,15 +44,6 @@
       <pubDate>Thu, 09 Feb 2023 21:05:18 +0900</pubDate>
       
       <guid>http://slow-wave.github.io/categories/book%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-deep-dive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>http://slow-wave.github.io/categories/javascript/</link>
-      <pubDate>Tue, 31 Jan 2023 16:31:43 +0900</pubDate>
-      
-      <guid>http://slow-wave.github.io/categories/javascript/</guid>
       <description></description>
     </item>
     
